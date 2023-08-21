@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking opportunities in **innovative and impactful software development roles that allow me to leverage my diverse skill set and contribute to meaningful projects.**
 
-- 👨‍💻 All of my projects are available at [https://maheshc7.github.io/](https://maheshc7.github.io/)
+- 👨‍💻 All of my projects are available [here](https://maheshc7.github.io/)
 
 - 💬 Ask me about **Python, React, NEXT JS, MaterialUI, Android**
 
 - 📫 How to reach me **narpatcm@oregonstate.edu**
 
-- 📄 Know about my experiences [https://github.com/maheshc7/maheshc7/blob/main/Mahesh_Resume_073123.pdf](https://github.com/maheshc7/maheshc7/blob/main/Mahesh_Resume_073123.pdf)
+- 📄 Know about my experiences - [Mahesh_NarpatChand_Resume.pdf](https://github.com/maheshc7/maheshc7/blob/main/Mahesh_Resume_073123.pdf)
 
 - ⚡ I love to **travel, eat and create innovative applications.**
 
