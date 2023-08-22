@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking opportunities in **innovative and impactful software development roles that allow me to leverage my diverse skill set and contribute to meaningful projects.**
 
-- 👨‍💻 All of my projects are available [here](https://maheshc7.github.io/)
+- 👨‍💻 Visit my portfolio [here](https://maheshc7.github.io/)
 
 - 💬 Ask me about **Python, React, NEXT JS, MaterialUI, Android**
 
