@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **narpatcm@oregonstate.edu**
 
-- 📄 Know about my experiences - [Mahesh_NarpatChand_Resume.pdf](https://github.com/maheshc7/maheshc7/blob/main/Mahesh_Resume_073123.pdf)
+- 📄 Know about my experiences - [Mahesh_NarpatChand_Resume.pdf](https://github.com/maheshc7/maheshc7/blob/main/Mahesh_Resume.pdf)
 
 - ⚡ I love to **travel, eat and create innovative applications.**
 
